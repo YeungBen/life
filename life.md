@@ -2,7 +2,7 @@
 ===============
 
 - 27/06/1993 Born
-- ~1968 Summer job
-- 03/1976 Built a computer
-- 01/04/1976 Started a [company](http://en.wikipedia.org/wiki/Apple_Inc. "Apple Inc.")
-- 04/1976-2011 Whole bunch of interesting events
+- 23/07/2013 Summer Camp in Xiamen
+- 14/07/2014 A travel to Tibet
+- 01/12/2014 Join in GitHub
+- 03/2014-2015 Whole bunch of interesting events
